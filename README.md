@@ -5,14 +5,14 @@ StoryWeaver is an interactive speech-therapy assistant that helps young children
 
 ---
 
-🚀 Features
+## 🚀 Features
 
-🎧 Real-Time Speech Recognition
+### 🎧 Real-Time Speech Recognition
 - Powered by OpenAI Whisper
 - Handles child speech variations
 - Works with moderate background noise
 
-🔍 Automated Error Detection
+### 🔍 Automated Error Detection
 - Uses Google Gemini 2.5-Flash
 - Detects:
   - Grammar mistakes
@@ -20,21 +20,21 @@ StoryWeaver is an interactive speech-therapy assistant that helps young children
   - Simple articulation patterns
 - Returns child-friendly corrections
 
-📚 Personalized Story Generation
+### 📚 Personalized Story Generation
 - Story is generated based on:
   - Picture subject
   - Detected errors
   - Age-appropriate vocabulary
 - Story is split into short sections using the "|" separator
 
-🎤 Interactive Practice
+### 🎤 Interactive Practice
 - System narrates each story section
 - Child records their reading
 - Whisper re-checks pronunciation
 - Accuracy score generated
 - Retry or advance based on performance
 
-📊 Progress Dashboard
+### 📊 Progress Dashboard
 - Tracks:
   - Total sessions
   - Average accuracy
@@ -42,7 +42,9 @@ StoryWeaver is an interactive speech-therapy assistant that helps young children
   - Sections completed
 - Saves all session data in JSON
 
-🧠 Tech Stack
+---
+
+## 🧠 Tech Stack
 Component: Technology
 Frontend: Streamlit
 ASR: Whisper (OpenAI)
@@ -51,7 +53,7 @@ Text-to-Speech: gTTS
 Storage: JSON
 Audio Recorder: st_audiorec
 
-📂 Project Structure
+## 📂 Project Structure
 📦 StoryWeaver
  ┣ 📁 pictures
  ┣ 📄 app.py
@@ -59,7 +61,9 @@ Audio Recorder: st_audiorec
  ┣ 📄 README.md
  ┗ 📄 requirements.txt
 
-🛠️ Installation & Setup
+---
+
+### 🛠️ Installation & Setup
 
 1. Clone the repository
    git clone https://github.com/your-username/StoryWeaver.git
@@ -75,7 +79,7 @@ Audio Recorder: st_audiorec
 4. Run the application
    streamlit run app.py
 
-📌 requirements.txt
+### 📌 requirements.txt
 streamlit
 openai-whisper
 google-generativeai
@@ -84,7 +88,7 @@ gtts
 python-dotenv
 st-audiorec
 
-📌 How It Works
+### 📌 How It Works
 - Child sees a picture
 - Child describes it
 - Whisper → text
@@ -95,15 +99,15 @@ st-audiorec
 - Whisper evaluates accuracy
 - Session saved in JSON
 
-🔒 Privacy & Safety
+### 🔒 Privacy & Safety
 - All processing is local
 - No external upload of child's voice
 - JSON-based storage only
 - Safe for early-childhood educational use
 
-✨ Authors
+### ✨ Authors
 - Roshan A Rauof – 22BAI1041
 - Reem Fariha – 22BAI1454
 
-📜 License
+## 📜 License
 MIT License
