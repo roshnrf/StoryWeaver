@@ -1,5 +1,5 @@
 #🎙️ StoryWeaver
-##A Generative-AI Powered Speech Therapy Platform for Children (Ages 4–6)
+### A Generative-AI Powered Speech Therapy Platform for Children (Ages 4–6)
 
 StoryWeaver is an interactive speech-therapy assistant that helps young children practice articulation, grammar, and vocabulary through AI-generated stories. It listens to a child describe a picture, detects errors in real time, and builds a personalized story that teaches correct speech through fun narrative practice.
 
