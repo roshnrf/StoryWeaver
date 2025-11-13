@@ -3,6 +3,8 @@
 
 StoryWeaver is an interactive speech-therapy assistant that helps young children practice articulation, grammar, and vocabulary through AI-generated stories. It listens to a child describe a picture, detects errors in real time, and builds a personalized story that teaches correct speech through fun narrative practice.
 
+---
+
 🚀 Features
 
 🎧 Real-Time Speech Recognition
