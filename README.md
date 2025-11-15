@@ -1,4 +1,4 @@
-# 🎯 StoryWeaver: AI-Powered Speech Therapy for Children
+<img width="497" height="139" alt="image" src="https://github.com/user-attachments/assets/1a7f00d6-c3ff-4591-be92-4b529f0ddf5b" /># 🎯 StoryWeaver: AI-Powered Speech Therapy for Children
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
@@ -16,14 +16,14 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#overview)
+- [Overview](##overview)
 - [Key Features](#key-features)
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Results & Analysis](#results--analysis)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](##technologies-used)
 - [Ethics & Privacy](#ethics--privacy)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
@@ -170,8 +170,8 @@
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/storyweaver-speech-therapy.git
-cd storyweaver-speech-therapy
+git clone https://github.com/roshnrf/storyweaver.git
+cd storyweaver
 ```
 
 ### Step 2: Create Virtual Environment
@@ -271,7 +271,7 @@ Session complete! 🎉
 ## 📁 Project Structure
 
 ```
-storyweaver-speech-therapy/
+storyweaver/
 ├── app.py                      # Main Streamlit application
 ├── config.py                   # Configuration settings
 ├── requirements.txt            # Python dependencies
@@ -566,11 +566,11 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{storyweaver2024,
-  author = {Rauof, Roshan A and Fariha, Reem},
+  author = {Roshan A Rauof, and Reem Fariha},
   title = {StoryWeaver: AI-Powered Speech Therapy for Children},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/storyweaver-speech-therapy},
+  url = {https://github.com/roshnrf/StoryWeaver},
   note = {Supervised by Dr. Anusooya G}
 }
 ```
@@ -581,7 +581,7 @@ If you use this project in your research, please cite:
 
 If you find this project helpful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/storyweaver-speech-therapy&type=Date)](https://star-history.com/#yourusername/storyweaver-speech-therapy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=roshnrf/StoryWeaver&type=Date)](https://star-history.com/#roshnrf/StoryWeaver&Date)
 
 ---
 
@@ -593,6 +593,7 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
 
