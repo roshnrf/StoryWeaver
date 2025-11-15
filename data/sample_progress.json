@@ -1,0 +1,318 @@
+
+    {
+      "date": "2025-10-30 22:59:02",
+      "subject": "dog",
+      "initial_errors": 1,
+      "errors_detail": [
+        {
+          "type": "grammar",
+          "incorrect": "have",
+          "correction": "has",
+          "explanation": "When we talk about just one friend, we say 'has'."
+        }
+      ],
+      "sections_completed": 11,
+      "total_attempts": 35,
+      "average_accuracy": 76.57802577616594,
+      "section_attempts": {
+        "section_0": [
+          {
+            "transcript": "my best friend. have a dog.",
+            "accuracy": 63.33333333333333,
+            "timestamp": "2025-10-30T23:00:25.406902"
+          },
+          {
+            "transcript": "my best friend. have a dog.",
+            "accuracy": 63.33333333333333,
+            "timestamp": "2025-10-30T23:01:48.675635"
+          },
+          {
+            "transcript": "Lily has the best friend named Tom.",
+            "accuracy": 94.11764705882352,
+            "timestamp": "2025-10-30T23:02:05.343958"
+          },
+          {
+            "transcript": "Lili asked a best friend named Ong.",
+            "accuracy": 85.29411764705883,
+            "timestamp": "2025-10-30T23:02:31.643486"
+          },
+          {
+            "transcript": "\u00a9 SMGM you",
+            "accuracy": 9.30232558139535,
+            "timestamp": "2025-10-30T23:02:57.469806"
+          },
+          {
+            "transcript": "Lily has the best friend named Tom.",
+            "accuracy": 94.11764705882352,
+            "timestamp": "2025-10-30T23:03:37.127473"
+          },
+          {
+            "transcript": "Lily has the best friend named Tom.",
+            "accuracy": 94.11764705882352,
+            "timestamp": "2025-10-30T23:03:47.780963"
+          }
+        ],
+        "section_1": [
+          {
+            "transcript": "Lily has the best friend named Tom.",
+            "accuracy": 37.28813559322034,
+            "timestamp": "2025-10-30T23:03:54.541008"
+          },
+          {
+            "transcript": "Lily has the best friend named Tom.",
+            "accuracy": 37.28813559322034,
+            "timestamp": "2025-10-30T23:04:18.709951"
+          },
+          {
+            "transcript": "Tom has a wonderful dog.",
+            "accuracy": 95.83333333333334,
+            "timestamp": "2025-10-30T23:04:38.655962"
+          },
+          {
+            "transcript": "Tom has a wonderful dog.",
+            "accuracy": 95.83333333333334,
+            "timestamp": "2025-10-30T23:05:04.873753"
+          }
+        ],
+        "section_2": [
+          {
+            "transcript": "Tom has a wonderful dog.",
+            "accuracy": 42.30769230769231,
+            "timestamp": "2025-10-30T23:05:10.628462"
+          },
+          {
+            "transcript": "This dog has full ground foot.",
+            "accuracy": 68.96551724137932,
+            "timestamp": "2025-10-30T23:05:34.107549"
+          },
+          {
+            "transcript": "It's called as soft brown flood.",
+            "accuracy": 70.0,
+            "timestamp": "2025-10-30T23:06:01.496422"
+          },
+          {
+            "transcript": "It's called as soft brown flood.",
+            "accuracy": 70.0,
+            "timestamp": "2025-10-30T23:06:14.457958"
+          }
+        ],
+        "section_3": [
+          {
+            "transcript": "The log also has a baggy pin.",
+            "accuracy": 84.7457627118644,
+            "timestamp": "2025-10-30T23:06:37.237224"
+          },
+          {
+            "transcript": "The log also has a baggy pin.",
+            "accuracy": 84.7457627118644,
+            "timestamp": "2025-10-30T23:06:59.664095"
+          }
+        ],
+        "section_4": [
+          {
+            "transcript": "The log also has a baggy pin.",
+            "accuracy": 35.08771929824561,
+            "timestamp": "2025-10-30T23:07:06.703383"
+          },
+          {
+            "transcript": "and it has 4 speedy poles.",
+            "accuracy": 77.77777777777779,
+            "timestamp": "2025-10-30T23:07:30.554305"
+          },
+          {
+            "transcript": "and it has 4 speedy poles.",
+            "accuracy": 77.77777777777779,
+            "timestamp": "2025-10-30T23:07:41.082790"
+          }
+        ],
+        "section_5": [
+          {
+            "transcript": "Tom's log has a favorite red ball.",
+            "accuracy": 97.05882352941177,
+            "timestamp": "2025-10-30T23:08:00.668974"
+          },
+          {
+            "transcript": "Tom's log has a favorite red ball.",
+            "accuracy": 97.05882352941177,
+            "timestamp": "2025-10-30T23:09:06.768063"
+          }
+        ],
+        "section_6": [
+          {
+            "transcript": "Tom's log has a favorite red ball.",
+            "accuracy": 40.54054054054054,
+            "timestamp": "2025-10-30T23:09:21.584354"
+          },
+          {
+            "transcript": "It has a funny squeak when you throw it.",
+            "accuracy": 100.0,
+            "timestamp": "2025-10-30T23:09:39.578528"
+          },
+          {
+            "transcript": "It has a funny squeak when you throw it.",
+            "accuracy": 100.0,
+            "timestamp": "2025-10-30T23:09:49.764912"
+          }
+        ],
+        "section_7": [
+          {
+            "transcript": "Every morning, home has to walk this happy dog.",
+            "accuracy": 95.65217391304348,
+            "timestamp": "2025-10-30T23:10:09.518241"
+          },
+          {
+            "transcript": "Every morning, home has to walk this happy dog.",
+            "accuracy": 95.65217391304348,
+            "timestamp": "2025-10-30T23:10:26.395318"
+          }
+        ],
+        "section_8": [
+          {
+            "transcript": "Every morning, home has to walk this happy dog.",
+            "accuracy": 34.883720930232556,
+            "timestamp": "2025-10-30T23:10:32.966836"
+          },
+          {
+            "transcript": "This dog has so much energy from what playing.",
+            "accuracy": 87.05882352941177,
+            "timestamp": "2025-10-30T23:10:50.689252"
+          },
+          {
+            "transcript": "This dog has so much energy from what playing.",
+            "accuracy": 87.05882352941177,
+            "timestamp": "2025-10-30T23:10:59.792933"
+          }
+        ],
+        "section_9": [
+          {
+            "transcript": "really loving that home has such",
+            "accuracy": 64.0,
+            "timestamp": "2025-10-30T23:11:19.485704"
+          },
+          {
+            "transcript": "Lily loves that Tom has such a playful dog.",
+            "accuracy": 100.0,
+            "timestamp": "2025-10-30T23:11:53.309513"
+          },
+          {
+            "transcript": "Lily loves that Tom has such a playful dog.",
+            "accuracy": 100.0,
+            "timestamp": "2025-10-30T23:12:08.342686"
+          }
+        ],
+        "section_10": [
+          {
+            "transcript": "They all have so much fun together.",
+            "accuracy": 100.0,
+            "timestamp": "2025-10-30T23:12:31.562205"
+          },
+          {
+            "transcript": "They all have so much fun together.",
+            "accuracy": 100.0,
+            "timestamp": "2025-10-30T23:12:41.304256"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-10-30 23:32:30",
+      "subject": "dolphin",
+      "initial_errors": 4,
+      "errors_detail": [
+        {
+          "type": "grammar",
+          "incorrect": "a doll thing",
+          "correction": "a doll",
+          "explanation": "You can just say 'a doll' instead. It sounds better!"
+        },
+        {
+          "type": "vocabulary",
+          "incorrect": "thing",
+          "correction": "doll",
+          "explanation": "'Thing' is a general word. What is it really? A doll!"
+        },
+        {
+          "type": "articulation",
+          "incorrect": "this",
+          "correction": "this",
+          "explanation": "For 'th' in 'this', put your tongue out a little!"
+        },
+        {
+          "type": "articulation",
+          "incorrect": "thing",
+          "correction": "thing",
+          "explanation": "For 'th' in 'thing', put your tongue out a little too!"
+        }
+      ],
+      "sections_completed": 3,
+      "total_attempts": 12,
+      "average_accuracy": 61.126638605738016,
+      "section_attempts": {
+        "section_0": [
+          {
+            "transcript": "this is a doll thing in my stomach.",
+            "accuracy": 54.11764705882353,
+            "timestamp": "2025-10-30T23:33:43.207766"
+          },
+          {
+            "transcript": "this is a doll thing in my stomach.",
+            "accuracy": 54.11764705882353,
+            "timestamp": "2025-10-30T23:34:15.114129"
+          },
+          {
+            "transcript": "This is finally a happy dolphin who loves to play.",
+            "accuracy": 96.0,
+            "timestamp": "2025-10-30T23:34:27.689028"
+          },
+          {
+            "transcript": "This is finally a happy dolphin who loves to play.",
+            "accuracy": 96.0,
+            "timestamp": "2025-10-30T23:34:39.481156"
+          }
+        ],
+        "section_1": [
+          {
+            "transcript": "This is finally a happy dolphin who loves to play.",
+            "accuracy": 19.642857142857142,
+            "timestamp": "2025-10-30T23:34:44.489719"
+          },
+          {
+            "transcript": "This is finally a happy dolphin who loves to play.",
+            "accuracy": 19.642857142857142,
+            "timestamp": "2025-10-30T23:35:00.580956"
+          },
+          {
+            "transcript": "This is finally a happy dolphin who loves to play.",
+            "accuracy": 19.642857142857142,
+            "timestamp": "2025-10-30T23:35:05.593634"
+          },
+          {
+            "transcript": "If found a small blue door, this door is his very best thing.",
+            "accuracy": 86.1788617886179,
+            "timestamp": "2025-10-30T23:35:21.869163"
+          },
+          {
+            "transcript": "If found a small blue door, this door is his very best thing.",
+            "accuracy": 86.1788617886179,
+            "timestamp": "2025-10-30T23:35:30.782798"
+          }
+        ],
+        "section_2": [
+          {
+            "transcript": "If found a small blue door, this door is his very best thing.",
+            "accuracy": 46.774193548387096,
+            "timestamp": "2025-10-30T23:35:36.744241"
+          },
+          {
+            "transcript": "Finally, things this special door makes every splash of M1-D for shoot.",
+            "accuracy": 77.61194029850746,
+            "timestamp": "2025-10-30T23:35:57.371278"
+          },
+          {
+            "transcript": "Finally, things this special door makes every splash of M1-D for shoot.",
+            "accuracy": 77.61194029850746,
+            "timestamp": "2025-10-30T23:36:08.209610"
+          }
+        ]
+      }
+    }

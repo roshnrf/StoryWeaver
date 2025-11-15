@@ -1,0 +1,82 @@
+timestamp,transcription,errors,story
+2025-10-23T22:17:02, I have any phone.,"[{""error_type"": ""grammar"", ""incorrect_phrase"": ""any phone"", ""corrected_phrase"": ""a phone"", ""explanation"": ""The determiner 'any' is generally used in negative or interrogative sentences ('Do you have any phone?'). In a simple positive statement referring to one singular, non-specific item, the indefinite article 'a' should be used.""}]","Leo the little lion cub loved to play!
+
+One sunny afternoon, Leo found a bright yellow block. ""Roar!"" he cheered happily. ""I have **a phone**!""
+
+It was a very important phone. Leo held the block up to his ear. *Beep boop beep!* He pretended to call his friend, Suzy the Squirrel. ""Hello, Suzy! I am calling you on **a phone** to ask about playing hide-and-seek.""
+
+Then, Leo made one more call. He called his Mama. He told her how much he loved her! Having **a phone**, even a pretend block one, made Leo feel like a very busy and happy lion cub."
+2025-10-23T22:18:12, I have any phone.,"[
+  {
+    ""error_type"": ""grammar"",
+    ""incorrect_phrase"": ""any phone"",
+    ""corrected_phrase"": ""a phone"",
+    ""explanation"": ""In an affirmative statement, the quantifier 'any' is incorrectly used with a singular countable noun. It should be replaced with the indefinite article 'a' or 'one'.""
+  }
+]","Lilly the squirrel was on an adventure. She needed to call her grandma! Lilly looked around the forest floor.
+
+“Oh!” she squeaked. She found a big, shiny pebble. “This can be **a phone**!”
+
+She held the pebble up to her ear. *Ring-ring!* “Hello, Grandma Squirrel?”
+
+A tiny ant walked by and waved. Lilly put the pebble down. Then she picked up a pink flower.
+
+“Maybe this is a better phone,” she thought. “It is **a phone** that smells nice!”
+
+She called her teddy bear next. ""Are you having fun?"" she whispered into the petals. It was exciting to use her imagination. Every pebble and flower could be **a phone** for a very important call!"
+2025-10-27T16:22:01, I have any phone.,"[{""error_type"": ""grammar"", ""incorrect_phrase"": ""any"", ""corrected_phrase"": ""a"", ""explanation"": ""In an affirmative statement of possession, the indefinite article 'a' should be used instead of the determiner 'any'. 'Any' is typically used for questions or negative statements.""}]","Toby the little teddy bear wanted to call the rainbow. He found a bright red block. “Look, Mom!” he cheered. “Now I have a phone!”
+
+It was a very important red phone. Toby pretended to dial the sunshine. *Beep, beep, boop!* He held the block up to his ear. He loved being able to talk to the sky.
+
+He decided his best friend needed one too. ""When you play, you can pretend **you have a phone** also!"" he said. Toby told the rainbow good morning. It was wonderful to **have a phone** for magical calls!"
+2025-10-28T23:22:36, What are you saying?,[],"Bunny Pip loved telling stories! He was whispering to his friend, Squirrel Sue.
+
+Sue tilted her head. She had fluff in her ear. “Wait, wait! **What are you saying**?” Sue asked kindly.
+
+Pip giggled and spoke louder. “I said I saw a rainbow berry! It was shiny!”
+
+Sue smiled big. “Oh, that sounds amazing! Can you tell me again **what you are saying** about the berry?” (She was practicing her listening!)
+
+Pip took a big breath. He used his big, clear voice this time.
+
+Sue heard every word! They both felt good about understanding **what they were saying** to each other. Talking is fun when you listen carefully!"
+2025-10-28T23:24:00, UN!,"[
+  {
+    ""error_type"": ""phonological"",
+    ""incorrect_phrase"": ""UN"",
+    ""corrected_phrase"": ""Run"",
+    ""explanation"": ""You forgot the beginning sound! Say /r/ first, like a roaring lion.""
+  }
+]","Dash the puppy loved to play outside.
+
+The sun was shining bright! Dash saw his favorite purple butterfly flutter by.
+
+“I want to catch you!” he whispered.
+
+“Time to **run**!” Dash barked happily. He stretched his paws and dashed across the soft green grass.
+
+His friend Leo the rabbit wiggled his nose. “Wait for me! I can **run** fast too!”
+
+They ran past the flowers and around the swing set. The butterfly giggled and landed on a big daisy.
+
+Dash and Leo stopped next to it. It was so much fun to **run**! They gave each other high-fives and took a big, happy rest."
+2025-10-28T23:29:01, I saw a habit here.,"[
+  {
+    ""error_type"": ""phonological"",
+    ""incorrect_phrase"": ""abit"",
+    ""corrected_phrase"": ""habit"",
+    ""explanation"": ""Remember to make the /h/ sound at the beginning of the word.""
+  },
+  {
+    ""error_type"": ""articulation"",
+    ""incorrect_phrase"": ""thaw"",
+    ""corrected_phrase"": ""saw"",
+    ""explanation"": ""Put your tongue behind your teeth to make the sharp /s/ sound.""
+  }
+]","Little Pip the Detective loved looking for good things. One sunny morning, he **saw** a tiny little door. He peeped inside!
+
+What he **saw** was a fluffy bunny practicing a wonderful **habit**. The bunny was putting all her crayons back in the box!
+
+""That's a super tidy **habit**,"" Pip squeaked happily.
+
+Then, Pip tiptoed further. He **saw** a sleepy badger making his bed. ""Another great **habit**!"" Pip cheered. Good **habits** help make the world bright and fun. Pip smiled and decided to start a new **habit** too: always jumping high when he woke up!"

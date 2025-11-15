@@ -1,0 +1,26 @@
+# Web Framework
+streamlit>=1.28.0
+st-audiorec>=0.0.6
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Speech Recognition & Audio
+openai-whisper>=20230314
+torch>=2.0.0
+torchaudio>=2.0.0
+librosa>=0.10.0
+soundfile>=0.12.1
+
+# AI/NLP
+google-generativeai>=0.3.0
+
+# Text-to-Speech
+gTTS>=2.3.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Utilities
+difflib  # Built-in, for similarity scoring
