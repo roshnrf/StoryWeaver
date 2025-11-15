@@ -525,7 +525,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Roshan A Rauof, Reem Fariha
+Copyright (c) 2025 Roshan A Rauof, Reem Fariha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -564,13 +564,12 @@ in the Software without restriction...
 If you use this project in your research, please cite:
 
 ```bibtex
-@software{storyweaver2024,
+@software{storyweaver2025,
   author = {Roshan A Rauof, and Reem Fariha},
   title = {StoryWeaver: AI-Powered Speech Therapy for Children},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/roshnrf/StoryWeaver},
-  note = {Supervised by Dr. Anusooya G}
+  url = {https://github.com/roshnrf/StoryWeaver}
 }
 ```
 
@@ -592,6 +591,7 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
 
