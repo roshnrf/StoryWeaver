@@ -4,6 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-green)](https://github.com/openai/whisper)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/roshnrf/storyweaver-speech-therapy/graphs/commit-activity)
 
 > **A Generative AI Platform for Collaborative Speech Therapy**  
 > Helping children (ages 4-6) improve English pronunciation through interactive storytelling
@@ -491,7 +492,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_USERNAME/storyweaver-speech-therapy.git
+git clone https://github.com/roshnrf/storyweaver-speech-therapy.git
 cd storyweaver-speech-therapy
 
 # Create feature branch
@@ -592,5 +593,6 @@ If you find this project helpful, please consider giving it a star! ⭐
 **Made with ❤️ for improving children's communication**
 
 [⬆ Back to Top](#-storyweaver-ai-powered-speech-therapy-for-children)
+
 
 </div>
