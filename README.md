@@ -17,7 +17,7 @@
 
 - [Overview](##overview)
 - [Key Features](#key-features)
-- [Architecture](##🏗️Architecture)
+- [Architecture]([##🏗️Architecture](https://github.com/roshnrf/StoryWeaver?tab=readme-ov-file#%EF%B8%8F-architecture))
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -592,6 +592,7 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
 
