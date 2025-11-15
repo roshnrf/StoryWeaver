@@ -1,4 +1,4 @@
-<img width="497" height="139" alt="image" src="https://github.com/user-attachments/assets/1a7f00d6-c3ff-4591-be92-4b529f0ddf5b" /># 🎯 StoryWeaver: AI-Powered Speech Therapy for Children
+# 🎯 StoryWeaver: AI-Powered Speech Therapy for Children
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/)
@@ -593,6 +593,7 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
 
