@@ -539,17 +539,14 @@ in the Software without restriction...
 ## 📧 Contact
 
 **Roshan A Rauof**  
-📧 Email: roshan.rauof@example.com  
-🔗 LinkedIn: [linkedin.com/in/roshanrauof](https://linkedin.com/in/roshanrauof)  
-🐙 GitHub: [@roshanrauof](https://github.com/roshanrauof)
+📧 Email: roshanabdlrf03@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/roshanarauof](https://www.linkedin.com/in/rosh003)  
+🐙 GitHub: [@roshnrf]([https://github.com/roshanrauof](https://github.com/roshnrf))
 
 **Reem Fariha**  
 📧 Email: reem.fariha@example.com  
-🔗 LinkedIn: [linkedin.com/in/reemfariha](https://linkedin.com/in/reemfariha)  
+🔗 LinkedIn: [linkedin.com/in/reemfariha](https://www.linkedin.com/in/reem-fariha-456509224/)  
 🐙 GitHub: [@reemfariha](https://github.com/reemfariha)
-
-**Project Guide: Dr. Anusooya G**  
-📧 Email: anusooya@example.com
 
 ---
 
@@ -597,5 +594,6 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
