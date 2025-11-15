@@ -5,7 +5,6 @@
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-green)](https://github.com/openai/whisper)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/roshnrf/storyweaver-speech-therapy/graphs/commit-activity)
-[![CI](https://github.com/roshnrf/storyweaver-speech-therapy/actions/workflows/python-app.yml/badge.svg)](https://github.com/roshnrf/storyweaver-speech-therapy/actions/workflows/python-app.yml)
 
 > **A Generative AI Platform for Collaborative Speech Therapy**  
 > Helping children (ages 4-6) improve English pronunciation through interactive storytelling
@@ -594,6 +593,7 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
 
