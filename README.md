@@ -579,8 +579,9 @@ If you use this project in your research, please cite:
 
 If you find this project helpful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=roshnrf/StoryWeaver&type=Date)](https://star-history.com/#roshnrf/StoryWeaver&Date)
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=roshnrf/StoryWeaver&type=date&legend=top-left)](https://www.star-history.com/#roshnrf/StoryWeaver&type=date&legend=top-left)
 ---
 
 <div align="center">
@@ -591,6 +592,7 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
 
