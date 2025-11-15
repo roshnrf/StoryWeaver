@@ -17,7 +17,7 @@
 
 - [Overview](##overview)
 - [Key Features](#key-features)
-- [Architecture](## 🏗️ Architecture)
+- [Architecture](##🏗️Architecture)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -592,6 +592,7 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 
 </div>
+
 
 
 
