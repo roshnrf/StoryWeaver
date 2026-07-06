@@ -9,7 +9,6 @@
 > **A Generative AI Platform for Collaborative Speech Therapy**  
 > Helping children (ages 4-6) improve English pronunciation through interactive storytelling
 
-**Authors:** Roshan A Rauof , Reem Fariha 
 
 ---
 
