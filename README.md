@@ -540,11 +540,6 @@ in the Software without restriction...
 🔗 LinkedIn: [linkedin.com/in/roshanarauof](https://www.linkedin.com/in/rosh003)  
 🐙 GitHub: [https://github.com/roshnrf](https://github.com/roshnrf)
 
-**Reem Fariha**  
-📧 Email: reem.fariha@example.com  
-🔗 LinkedIn: [linkedin.com/in/reemfariha](https://www.linkedin.com/in/reem-fariha-456509224/)  
-🐙 GitHub: [@reemfariha](https://github.com/reemfariha)
-
 ---
 
 ## 🙏 Acknowledgments
@@ -564,7 +559,7 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{storyweaver2025,
-  author = {Roshan A Rauof, and Reem Fariha},
+  author = {Roshan A Rauof},
   title = {StoryWeaver: AI-Powered Speech Therapy for Children},
   year = {2025},
   publisher = {GitHub},
