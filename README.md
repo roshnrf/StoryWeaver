@@ -559,7 +559,7 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{storyweaver2025,
-  author = {Roshan A Rauof},
+  author = {Roshan A Rauof, Reem Fariha},
   title = {StoryWeaver: AI-Powered Speech Therapy for Children},
   year = {2025},
   publisher = {GitHub},
