@@ -540,6 +540,9 @@ in the Software without restriction...
 🔗 LinkedIn: [linkedin.com/in/roshanarauof](https://www.linkedin.com/in/rosh003)  
 🐙 GitHub: [https://github.com/roshnrf](https://github.com/roshnrf)
 
+**Reem Fariha**
+Email: reemfariha04@gmail.com
+
 ---
 
 ## 🙏 Acknowledgments
